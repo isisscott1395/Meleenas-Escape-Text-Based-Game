@@ -1,1 +1,1 @@
-SQL database development, data organization, queries, and relational database operations.
+Python text-based adventure game demonstrating functions, loops, dictionaries, and conditional logic.
